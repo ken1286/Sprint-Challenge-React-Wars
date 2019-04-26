@@ -37,6 +37,7 @@ class App extends Component {
         <CharacterDisplay 
           characters={this.state.starwarsChars}
         />
+        {console.log(this.state)}
       </div>
     );
   }
