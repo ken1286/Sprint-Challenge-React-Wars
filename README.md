@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+  React JS is a Javascript library that addresses the problem of having a page that needs constant updates with new information.
+
 - [ ] What does it mean to _think_ in react?
+
+  Thinking in React means to think in terms of breaking an app down into components with a hierarchy for the components.
 
 - [ ] Describe state.
 
+  State is the mutable data that components have access to.
+
 - [ ] Describe props.
+
+  Props are immutable and are used as parameters in Functional Components to pass data.
 
 ## Project Set Up
 
